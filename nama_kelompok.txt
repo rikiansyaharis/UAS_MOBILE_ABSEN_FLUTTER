@@ -1,0 +1,18 @@
+Membuat aplikasi absen berbasis lokasi
+
+NAMA KELOMPOK :
+
+- RIKIANSYAH ARIS KURNIAWAN (362055401016)
+  - Scanner
+  - profil
+  - Design UI UX
+  
+- ERVIANNUR RAHMASARI (362055401030)
+  - Login screen
+
+- HSP WATULINTANG ARUMDANIE (3620554010)
+  - History screen
+
+- NANDA RISKY MULYANI
+  - Home screen
+  
